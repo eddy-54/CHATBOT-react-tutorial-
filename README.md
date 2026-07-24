@@ -8,6 +8,8 @@ While the base of this project follows the SuperSimpleDev course, I independentl
 
 * **[Custom Feature 2]:** Implemented dynamic timestamps for when messages are sent.
 * **[Custom Feature 3]:** Added a loading message that disp;ays while the chatbot 'thinks'.
+* **[Custom Feature 4]:** Improved the chatbot's response capabilities.
+
 
 
 ## What I Learned
