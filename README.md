@@ -6,9 +6,9 @@ To handle the chatbot's actual reply logic, I integrated a response module provi
 
 While the base of this project follows the SuperSimpleDev course, I independently completed several assignments and extended the application with my own custom features:
 
-* **[Custom Feature 2]:** Implemented dynamic timestamps for when messages are sent.
-* **[Custom Feature 3]:** Added a loading message that disp;ays while the chatbot 'thinks'.
-* **[Custom Feature 4]:** Improved the chatbot's response capabilities.
+* **Timestamps:** Implemented dynamic timestamps for when messages are sent.
+* **Loading Message:** Added a loading message that disp;ays while the chatbot 'thinks'.
+* **More Responses:** Improved the chatbot's response capabilities.
 
 
 
