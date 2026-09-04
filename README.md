@@ -2,6 +2,7 @@
 
 This is a chatbot application I built while learning the core concepts of React.js. 
 To handle the chatbot's actual reply logic, I integrated a response module provided by [SuperSimpleDev](https://www.youtube.com/@SuperSimpleDev).
+It only answers questions about date, best striker in football, most beautiful girl and its creator's name
 ##  Features I Added
 
 While the base of this project follows the SuperSimpleDev course, I independently completed several assignments and extended the application with my own custom features:
