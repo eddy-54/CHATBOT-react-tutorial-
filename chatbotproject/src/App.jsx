@@ -35,10 +35,10 @@ function App() {
     chatbot.addResponses({
       name: "Supersimpledev Chatbot",
       striker: "Victor Osimhen",
-      create: "Ezenwukwa Ebubechukwu",
+      creator: "Ezenwukwa Ebubechukwu",
       beautiful: "Eno-Obong",
-      return: "Go to our office at behind flat",
-      refund: "Contact the customer care - juniamrefund@gmail.com"
+      price: "$15 per hour",
+      refund: "Contact the customer care - juniamrefund@gmail.com",
     });
   }, []);
   useEffect(() => {
