@@ -18,7 +18,8 @@ function App() {
         time: readableTime,
       },
       {
-        message: "Helloo, how can I help you",
+        message:
+          "Helloo, I am Supersimpledev Chatbot. I can only answer a limited number of questions. Please ask me a question and I will try to answer it.",
         sender: "robot",
         key: "id2",
         time: readableTime,
