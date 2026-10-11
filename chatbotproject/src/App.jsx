@@ -40,6 +40,7 @@ function App() {
       beautiful: "Eno-Obong",
       price: "$15 per hour",
       refund: "Contact the customer care - juniamrefund@gmail.com",
+      do: "I can only answer a limited number of questions. Please ask me a question and I will try to answer it.",
     });
   }, []);
   useEffect(() => {
