@@ -11,12 +11,12 @@ function App() {
   const readableTime = dayjs(time).format("h:mm A");
   const [chatMessages, setChatMessages] = useState(
     JSON.parse(localStorage.getItem("messages")) || [
-      {
-        message: "Hello chatbot",
-        sender: "user",
-        key: "id1",
-        time: readableTime,
-      },
+      // {
+      //   message: "Hello chatbot",
+      //   sender: "user",
+      //   key: "id1",
+      //   time: readableTime,
+      // },
       {
         message:
           "Helloo, I am Supersimpledev Chatbot. I can only answer a limited number of questions. Please ask me a question and I will try to answer it.",
@@ -24,12 +24,12 @@ function App() {
         key: "id2",
         time: readableTime,
       },
-      {
-        message: "Can you get me today's date?",
-        sender: "user",
-        key: "id3",
-        time: readableTime,
-      },
+      // {
+      //   message: "Can you get me today's date?",
+      //   sender: "user",
+      //   key: "id3",
+      //   time: readableTime,
+      // },
     ],
   );
   useEffect(() => {
